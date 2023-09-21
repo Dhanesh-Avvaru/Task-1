@@ -1,0 +1,13 @@
+Describe the process of creating a new issue or bug report in the issue tracking system.
+
+
+Process:
+
+1.identify the problem or bug you encountered in the software. Restate the problem and note the steps you took to get to that point.
+2.Gather any relevant information you can find about the problem, such as software version, operating system, hardware configuration, and error messages or screenshots.
+3.The title of a bug report should be short and summarize the problem in a few words.
+4.Write a detailed description of the problem, explaining what's happening, how it's happening, and why it's a problem. Please provide the exact steps to reproduce the problem and any error messages or logs that may help identify the root cause.
+5.Assign a severity level to a problem based on how it affects the software and users. Use a severity scale from low to critical, with critical indicating a major impact on the software.
+6.Assign a priority level to an issue based on its urgency, importance, and impact on the software and users. Use a scale from low to critical priority, which indicates that the problem needs to be addressed immediately.
+7.If you have relevant files (such as screenshots, error messages, or logs), attach them to the bug report. These files help developers understand the problem and its root cause.
+8.Once you've filed a bug report, submit it to the appropriate team or person responsible for resolving the issue.
